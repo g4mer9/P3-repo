@@ -2,6 +2,7 @@ import sys
 sys.path.insert(0, '../')
 from planet_wars import issue_order
 from random import choice
+import logging
 
 
 def attack_weakest_enemy_planet(state):
@@ -24,12 +25,20 @@ def attack_weakest_enemy_planet(state):
     
 def production_attempt(state):
     
-    my_planet = choice(state.my_planets())
-    #grab distance using distance(planet1, planet2) function instead of distance_to
-    closest_planet = min(state.neutral_planets(), key=lambda p: state.distance(state.my_planets().index(my_planet), state.neutral_planets().index(p)), default=None)
-    if closest_planet and closest_planet.num_ships < 40:
-        return issue_order(state, my_planet.ID, closest_planet.ID, 40 - closest_planet.num_ships)
+    for my_planet in state.my_planets():
+    
+        target_planets = [planet for planet in state.not_my_planets()
+                        if not any(fleet.destination_planet == planet.ID for fleet in state.my_fleets())]
+        target_planets = sorted(target_planets, key=lambda p: p.num_ships, reverse=False)
 
+        if target_planets:
+            target_planet = target_planets[0]
+            if(target_planet.owner == 0):
+                required_ships = target_planet.num_ships + 1
+            else:
+                required_ships = target_planet.num_ships + state.distance(my_planet.ID, target_planet.ID) * target_planet.growth_rate + 1
+            if my_planet.num_ships > required_ships:
+                return issue_order(state, my_planet.ID, target_planet.ID, required_ships)
     return False
 
 def spread_to_weakest_neutral_planet(state):
