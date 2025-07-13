@@ -44,9 +44,14 @@ def spread_to_weakest_neutral_planet(state):
 def reinforce_weakest_planets(state):
     #find which planets can send fleets to help weaker planets
     total_ships = sum(planet.num_ships for planet in state.my_planets())
-    average_before_threshold = total_ships / len(state.my_planets()) 
+    if len(state.my_planets()) != 0:
+        average_before_threshold = total_ships / len(state.my_planets()) 
+    else: 
+        return False
     average_ships = average_before_threshold * 0.8
 
+    #track if the action occurred:
+    action_occurred = False 
 
     #make lists of the stronger and weaker planets 
     stronger_planets = [planet for planet in state.my_planets() if planet.num_ships > average_ships]
@@ -78,9 +83,13 @@ def reinforce_weakest_planets(state):
         #strong cannot send all that weak needs, but will send as much as it can :
         elif (weak_receives >= strong_gives) and strong_gives > 0: 
             issue_order(state, nearest_strong_planet.ID, weak_planet.ID, strong_gives)
+            action_occurred = True
         else: #(strong_gives > weak_receives) and weak_receives > 0, strong has more than enough ships to send, 
             #so it will just send what weak needs
             issue_order(state, nearest_strong_planet.ID, weak_planet.ID, weak_receives)
+            action_occurred = True
+        
+    return action_occurred
 
 
 

@@ -22,7 +22,8 @@ def is_a_weak_planet(state):
       
     #calculate average
     average_num_ships = total_ships / len(my_planets)
+    threshold = 0.8 * average_num_ships
     #return any planet that has less ships than the average (weak planet) 
-    return any(planet.num_ships < average_num_ships for planet in my_planets) 
+    return any(planet.num_ships < threshold for planet in my_planets) 
       
     

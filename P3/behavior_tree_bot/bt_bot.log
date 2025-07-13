@@ -397,11 +397,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 8.200000000000003
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -422,11 +420,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 5.800000000000004
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -447,11 +443,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 4.600000000000001
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -472,11 +466,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 3.8000000000000043
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -497,11 +489,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 3.4000000000000057
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -522,11 +512,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 3.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -547,11 +535,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000014
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -572,11 +558,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000014
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -597,11 +581,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000014
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -622,11 +604,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000014
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -645,11 +625,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000014
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -668,11 +646,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000014
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -691,11 +667,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000014
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -714,11 +688,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000014
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -737,11 +709,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000085
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -760,11 +730,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000085
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -783,7 +751,25 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.6000000000000085
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: Offensive Strategy
+DEBUG:root:Executing:Check: have_largest_fleet
+DEBUG:root:Result: Check: have_largest_fleet -> Failure
+DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
+DEBUG:root:Executing:Sequence: Spread Strategy
+DEBUG:root:Executing:Check: if_neutral_planet_available
+DEBUG:root:Result: Check: if_neutral_planet_available -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: Spread Strategy -> Failure
+DEBUG:root:Executing:Sequence: Defensive Strategy
+DEBUG:root:Executing:Check: is_a_weak_planet
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -803,9 +789,7 @@ DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
 DEBUG:root:Result: Sequence: Spread Strategy -> Failure
 DEBUG:root:Executing:Sequence: Defensive Strategy
 DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -825,9 +809,7 @@ DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
 DEBUG:root:Result: Sequence: Spread Strategy -> Failure
 DEBUG:root:Executing:Sequence: Defensive Strategy
 DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -847,9 +829,7 @@ DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
 DEBUG:root:Result: Sequence: Spread Strategy -> Failure
 DEBUG:root:Executing:Sequence: Defensive Strategy
 DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -869,9 +849,7 @@ DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
 DEBUG:root:Result: Sequence: Spread Strategy -> Failure
 DEBUG:root:Executing:Sequence: Defensive Strategy
 DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -891,31 +869,7 @@ DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
 DEBUG:root:Result: Sequence: Spread Strategy -> Failure
 DEBUG:root:Executing:Sequence: Defensive Strategy
 DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Offensive Strategy
-DEBUG:root:Executing:Check: have_largest_fleet
-DEBUG:root:Result: Check: have_largest_fleet -> Failure
-DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
-DEBUG:root:Executing:Sequence: Spread Strategy
-DEBUG:root:Executing:Check: if_neutral_planet_available
-DEBUG:root:Result: Check: if_neutral_planet_available -> Success
-DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
-DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
-DEBUG:root:Result: Sequence: Spread Strategy -> Failure
-DEBUG:root:Executing:Sequence: Defensive Strategy
-DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -938,11 +892,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 34.33333333333333
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -961,11 +913,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 10.733333333333334
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -984,11 +934,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 4.733333333333334
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1007,11 +955,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 3.13333333333334
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1030,11 +976,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 2.2666666666666657
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1053,11 +997,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 2.13333333333334
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1076,11 +1018,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 2.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1100,11 +1040,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 15.200000000000003
 DEBUG:root:Order:1 17 7.200000000000003
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1124,11 +1062,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 3.6666666666666714
 DEBUG:root:Order:1 17 2.6666666666666714
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1148,11 +1084,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 1.0666666666666629
 DEBUG:root:Order:1 17 1.0666666666666629
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1168,9 +1102,7 @@ DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
 DEBUG:root:Result: Sequence: Spread Strategy -> Failure
 DEBUG:root:Executing:Sequence: Defensive Strategy
 DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -1193,11 +1125,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 0.3333333333333286
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1216,11 +1146,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 0.6666666666666572
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1239,11 +1167,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 1.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1262,11 +1188,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 10.399999999999991
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1285,11 +1209,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 2.933333333333337
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1308,11 +1230,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 1.3333333333333286
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1331,11 +1251,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.46666666666665435
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1354,11 +1272,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.3333333333333286
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1377,11 +1293,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.19999999999998863
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1400,11 +1314,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.7999999999999972
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1424,11 +1336,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 32.0
 DEBUG:root:Order:1 17 2.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1447,11 +1357,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 6.3999999999999915
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1470,11 +1378,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 1.5999999999999943
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1493,11 +1399,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 5.86666666666666
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1516,11 +1420,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 3.5333333333333172
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1539,11 +1441,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 1.933333333333323
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1562,11 +1462,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 1.0666666666666629
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1585,11 +1483,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 18.86666666666666
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1608,11 +1504,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 3.933333333333337
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1631,11 +1525,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 1.3333333333333286
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1655,11 +1547,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 55.866666666666674
 DEBUG:root:Order:1 17 4.866666666666674
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1678,11 +1568,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 9.133333333333326
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1701,11 +1589,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 1.86666666666666
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1724,11 +1610,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.7333333333333343
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1748,11 +1632,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 22.200000000000003
 DEBUG:root:Order:1 17 4.200000000000003
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1771,11 +1653,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 1.7999999999999972
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1794,11 +1674,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.6666666666666572
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1817,11 +1695,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 2.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1841,11 +1717,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 10.0
 DEBUG:root:Order:1 17 2.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1864,11 +1738,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.7999999999999972
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1887,11 +1759,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.6666666666666572
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1910,11 +1780,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 7.733333333333334
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1933,11 +1801,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 2.1999999999999886
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1956,11 +1822,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.5999999999999943
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -1980,11 +1844,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 4.6000000000000085
 DEBUG:root:Order:1 17 8.600000000000009
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2002,11 +1864,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 2.5333333333333314
 DEBUG:root:Order:1 17 5.533333333333331
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2024,11 +1884,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 1.8000000000000114
 DEBUG:root:Order:1 17 3.8000000000000114
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2045,11 +1903,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 19.799999999999997
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2066,11 +1922,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 3.86666666666666
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2087,11 +1941,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 1.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2108,11 +1960,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.13333333333332575
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2129,11 +1979,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 2.933333333333337
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2150,11 +1998,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 1.3333333333333286
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2171,11 +2017,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.46666666666665435
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2192,11 +2036,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 1.5999999999999943
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2213,11 +2055,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 1.3999999999999915
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2234,11 +2074,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 0.2666666666666657
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2256,11 +2094,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 0.8666666666666742
 DEBUG:root:Order:1 17 18.866666666666674
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2277,11 +2113,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 20.400000000000006
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2298,11 +2132,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 5.333333333333314
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2319,11 +2151,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 0.5333333333333314
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2341,11 +2171,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 3.0
 DEBUG:root:Order:1 17 8.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2362,11 +2190,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 3.4666666666666686
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2383,11 +2209,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 0.4000000000000057
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2405,11 +2229,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 0.7333333333333201
 DEBUG:root:Order:1 17 0.7333333333333201
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2426,11 +2248,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 27.93333333333331
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2447,11 +2267,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 11.666666666666657
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2468,11 +2286,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 3.4666666666666686
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2489,11 +2305,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 0.06666666666666288
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2510,11 +2324,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:17 9 1.5999999999999943
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2532,11 +2344,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 0.7333333333333343
 DEBUG:root:Order:1 17 100.73333333333333
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2553,11 +2363,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 24.799999999999997
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2574,11 +2382,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 25.86666666666666
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2595,11 +2401,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 14.466666666666654
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2616,11 +2420,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 0.46666666666665435
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2638,11 +2440,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 0.6666666666666714
 DEBUG:root:Order:1 17 55.66666666666667
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2659,11 +2459,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 13.599999999999994
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2680,11 +2478,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 2.933333333333337
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2702,11 +2498,9 @@ DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 9 8.200000000000003
 DEBUG:root:Order:1 17 14.200000000000003
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2723,11 +2517,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 16.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2744,11 +2536,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2765,11 +2555,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -2786,7 +2574,23 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:1 17 2.0
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: Offensive Strategy
+DEBUG:root:Executing:Check: have_largest_fleet
+DEBUG:root:Result: Check: have_largest_fleet -> Failure
+DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
+DEBUG:root:Executing:Sequence: Spread Strategy
+DEBUG:root:Executing:Check: if_neutral_planet_available
+DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
+DEBUG:root:Result: Sequence: Spread Strategy -> Failure
+DEBUG:root:Executing:Sequence: Defensive Strategy
+DEBUG:root:Executing:Check: is_a_weak_planet
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -2804,130 +2608,7 @@ DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
 DEBUG:root:Result: Sequence: Spread Strategy -> Failure
 DEBUG:root:Executing:Sequence: Defensive Strategy
 DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Offensive Strategy
-DEBUG:root:Executing:Check: have_largest_fleet
-DEBUG:root:Result: Check: have_largest_fleet -> Failure
-DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
-DEBUG:root:Executing:Sequence: Spread Strategy
-DEBUG:root:Executing:Check: if_neutral_planet_available
-DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
-DEBUG:root:Result: Sequence: Spread Strategy -> Failure
-DEBUG:root:Executing:Sequence: Defensive Strategy
-DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Offensive Strategy
-DEBUG:root:Executing:Check: have_largest_fleet
-DEBUG:root:Result: Check: have_largest_fleet -> Failure
-DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
-DEBUG:root:Executing:Sequence: Spread Strategy
-DEBUG:root:Executing:Check: if_neutral_planet_available
-DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
-DEBUG:root:Result: Sequence: Spread Strategy -> Failure
-DEBUG:root:Executing:Sequence: Defensive Strategy
-DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Offensive Strategy
-DEBUG:root:Executing:Check: have_largest_fleet
-DEBUG:root:Result: Check: have_largest_fleet -> Failure
-DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
-DEBUG:root:Executing:Sequence: Spread Strategy
-DEBUG:root:Executing:Check: if_neutral_planet_available
-DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
-DEBUG:root:Result: Sequence: Spread Strategy -> Failure
-DEBUG:root:Executing:Sequence: Defensive Strategy
-DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Order:1 17 48.80000000000001
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Offensive Strategy
-DEBUG:root:Executing:Check: have_largest_fleet
-DEBUG:root:Result: Check: have_largest_fleet -> Failure
-DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
-DEBUG:root:Executing:Sequence: Spread Strategy
-DEBUG:root:Executing:Check: if_neutral_planet_available
-DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
-DEBUG:root:Result: Sequence: Spread Strategy -> Failure
-DEBUG:root:Executing:Sequence: Defensive Strategy
-DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Offensive Strategy
-DEBUG:root:Executing:Check: have_largest_fleet
-DEBUG:root:Result: Check: have_largest_fleet -> Failure
-DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
-DEBUG:root:Executing:Sequence: Spread Strategy
-DEBUG:root:Executing:Check: if_neutral_planet_available
-DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
-DEBUG:root:Result: Sequence: Spread Strategy -> Failure
-DEBUG:root:Executing:Sequence: Defensive Strategy
-DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Offensive Strategy
-DEBUG:root:Executing:Check: have_largest_fleet
-DEBUG:root:Result: Check: have_largest_fleet -> Failure
-DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
-DEBUG:root:Executing:Sequence: Spread Strategy
-DEBUG:root:Executing:Check: if_neutral_planet_available
-DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
-DEBUG:root:Result: Sequence: Spread Strategy -> Failure
-DEBUG:root:Executing:Sequence: Defensive Strategy
-DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -2965,7 +2646,24 @@ DEBUG:root:Executing:Sequence: Defensive Strategy
 DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Order:1 17 48.80000000000001
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: Offensive Strategy
+DEBUG:root:Executing:Check: have_largest_fleet
+DEBUG:root:Result: Check: have_largest_fleet -> Failure
+DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
+DEBUG:root:Executing:Sequence: Spread Strategy
+DEBUG:root:Executing:Check: if_neutral_planet_available
+DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
+DEBUG:root:Result: Sequence: Spread Strategy -> Failure
+DEBUG:root:Executing:Sequence: Defensive Strategy
+DEBUG:root:Executing:Check: is_a_weak_planet
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -2983,9 +2681,7 @@ DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
 DEBUG:root:Result: Sequence: Spread Strategy -> Failure
 DEBUG:root:Executing:Sequence: Defensive Strategy
 DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -3003,9 +2699,79 @@ DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
 DEBUG:root:Result: Sequence: Spread Strategy -> Failure
 DEBUG:root:Executing:Sequence: Defensive Strategy
 DEBUG:root:Executing:Check: is_a_weak_planet
-DEBUG:root:Result: Check: is_a_weak_planet -> Success
-DEBUG:root:Executing:Action: reinforce_weakest_planets
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
+DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: Offensive Strategy
+DEBUG:root:Executing:Check: have_largest_fleet
+DEBUG:root:Result: Check: have_largest_fleet -> Failure
+DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
+DEBUG:root:Executing:Sequence: Spread Strategy
+DEBUG:root:Executing:Check: if_neutral_planet_available
+DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
+DEBUG:root:Result: Sequence: Spread Strategy -> Failure
+DEBUG:root:Executing:Sequence: Defensive Strategy
+DEBUG:root:Executing:Check: is_a_weak_planet
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
+DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: Offensive Strategy
+DEBUG:root:Executing:Check: have_largest_fleet
+DEBUG:root:Result: Check: have_largest_fleet -> Failure
+DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
+DEBUG:root:Executing:Sequence: Spread Strategy
+DEBUG:root:Executing:Check: if_neutral_planet_available
+DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
+DEBUG:root:Result: Sequence: Spread Strategy -> Failure
+DEBUG:root:Executing:Sequence: Defensive Strategy
+DEBUG:root:Executing:Check: is_a_weak_planet
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
+DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: Offensive Strategy
+DEBUG:root:Executing:Check: have_largest_fleet
+DEBUG:root:Result: Check: have_largest_fleet -> Failure
+DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
+DEBUG:root:Executing:Sequence: Spread Strategy
+DEBUG:root:Executing:Check: if_neutral_planet_available
+DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
+DEBUG:root:Result: Sequence: Spread Strategy -> Failure
+DEBUG:root:Executing:Sequence: Defensive Strategy
+DEBUG:root:Executing:Check: is_a_weak_planet
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
+DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: Offensive Strategy
+DEBUG:root:Executing:Check: have_largest_fleet
+DEBUG:root:Result: Check: have_largest_fleet -> Failure
+DEBUG:root:Result: Sequence: Offensive Strategy -> Failure
+DEBUG:root:Executing:Sequence: Spread Strategy
+DEBUG:root:Executing:Check: if_neutral_planet_available
+DEBUG:root:Result: Check: if_neutral_planet_available -> Failure
+DEBUG:root:Result: Sequence: Spread Strategy -> Failure
+DEBUG:root:Executing:Sequence: Defensive Strategy
+DEBUG:root:Executing:Check: is_a_weak_planet
+DEBUG:root:Result: Check: is_a_weak_planet -> Failure
 DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
 DEBUG:root:Executing:Action: attack_weakest_enemy_planet
 DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
@@ -3315,11 +3081,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 24.6
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -3336,11 +3100,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 14.200000000000003
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -3357,11 +3119,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 7.800000000000001
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
@@ -3378,11 +3138,9 @@ DEBUG:root:Executing:Check: is_a_weak_planet
 DEBUG:root:Result: Check: is_a_weak_planet -> Success
 DEBUG:root:Executing:Action: reinforce_weakest_planets
 DEBUG:root:Order:9 17 4.200000000000003
-DEBUG:root:Result: Action: reinforce_weakest_planets -> Failure
-DEBUG:root:Result: Sequence: Defensive Strategy -> Failure
-DEBUG:root:Executing:Action: attack_weakest_enemy_planet
-DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Result: Action: reinforce_weakest_planets -> Success
+DEBUG:root:Result: Sequence: Defensive Strategy -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
 DEBUG:root:Finish turn
 
 DEBUG:root:Executing:Selector: High Level Ordering of Strategies
